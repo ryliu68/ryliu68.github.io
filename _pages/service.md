@@ -14,7 +14,7 @@ nav_order: 3
   - PC Member, ICONIP 2024
 - 2023
   - PC Member, ICDCS 2023
-  - Reviewer, ACM MM 2023  - 
+  - Reviewer, ACM MM 2023
   - Reviewer, ECAI 2023
   - Reviewer, ICONIP 2023
 
