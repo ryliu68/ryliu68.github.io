@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  Research Fellow, <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, ryliu@nus.edu.sg
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings! I am currently a Research Fellow at the Institute of Data Science, National University of Singapore, working with <a href='https://www.comp.nus.edu.sg/~ngsk/'>Prof. See-Kiong Ng</a>. Before that, I received my PhD degree at <a href='https://www.ynu.edu.cn/'>Yunnan University</a>, supervised by <a href='http://www.sei.ynu.edu.cn/info/1023/1106.htm'>Prof. Wei Zhou</a>. From 2022.12-2023.12, I am a visiting student in the College of Computing and Data Science, Nanyang Technological University, Singapore, , supervised by <a href='https://personal.ntu.edu.sg/kwokyan.lam/'>Prof. LAM, Kwok Yan</a>. From 2023.12-2024.08, I am a Research Intern in the School of Cyber Security, <a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>, China, supervised by <a href='https://scst.sysu.edu.cn/members/members01/1410204.htm'>Prof. Ziyu lvy</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p><b>Address:</b> innovation 4.0, #04-06, Research Link Singapore 117602, Singapore</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p style="margin-bottom: 50px;"><b>Research interests:</b> AI Security & Data Privacy, Machine Unlearning, Adversarial Attacks, Compter Vison.</p>
+
