@@ -2,13 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle:  Research Fellow, <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, ryliu@nus.edu.sg
+subtitle:  Research Fellow, <a href='https://ids.nus.edu.sg/index.html'>Institute of Data Science (IDS)</a>, <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: ryliu_c.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>ryliu[AT]nus[dot]edu[dot]sg</p>
 
 
 news: true # includes a list of news items
