@@ -7,4 +7,4 @@ related_posts: false
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 
-One paper has been accepted by TIFS (SCI Q1, CCF-A)! Many thanks to my collaborators. :sparkles:
+One paper has been accepted by TIFS (SCI Q1, CCF-A, TOP)! Many thanks to my collaborators. :sparkles:
