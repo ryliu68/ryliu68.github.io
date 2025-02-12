@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-### Conference Reviewers
+### Conferences
 
 - 2024
   - Reviewer, ACM MM 2024
@@ -18,8 +18,9 @@ nav_order: 3
   - Reviewer, ECAI 2023
   - Reviewer, ICONIP 2023
 
-### Journal Reviewers
-
+### Journals
+- 2025
+  - Reviewer, TIFS
 - 2024
   - Reviewer, NPL
   - Reviewer, EAAI
