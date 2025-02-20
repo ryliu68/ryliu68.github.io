@@ -146,6 +146,23 @@
     </div>
 
     <!-- Journal/Book title and date -->
+    {% comment %} {% for author in entry.authors %}
+      {% if author contains "*" or author contains "✉" %}
+        <strong>{{ author | replace: "*", "" | replace: "✉", "" }}</strong> <span style="color:red;">(✉ Corresponding Author)</span>
+      {% else %}
+        {{ author }}
+      {% endif %}
+      {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+
+    {% for author in entry.authors %}
+      {% if author.corresponding %}
+        <strong>{{ author.name }} (✉ Corresponding Author)</strong>
+      {% else %}
+        {{ author.name }}
+      {% endif %}
+    {% endfor %} {% endcomment %}
+    
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
