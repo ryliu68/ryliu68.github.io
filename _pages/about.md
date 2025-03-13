@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  Research Fellow, <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>. E-mail, ryliu@nus.edu.sg
+subtitle:  Research Fellow, <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>. E-mail, ryliu[AT]nus.edu.sg
 
 profile:
   align: left
