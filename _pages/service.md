@@ -21,6 +21,7 @@ nav_order: 3
 ### Journals
 - 2025
   - Reviewer, TIFS
+  - Reviewer, Machine Learning
 - 2024
   - Reviewer, NPL
   - Reviewer, EAAI
