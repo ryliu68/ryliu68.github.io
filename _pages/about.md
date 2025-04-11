@@ -23,8 +23,7 @@ social: true # includes social icons at the bottom of the page
 <p style="margin-bottom: 50px;"><b>Research interests:</b> AI Security & Data Privacy, Machine Unlearning, Adversarial Attacks, Compter Vison.</p> -->
 
 
-🎉 **Greetings!**  
-I am currently a **Research Fellow** at the Institute of Data Science, **<a href='https://nus.edu.sg/'>National University of Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, working with <a href='https://www.comp.nus.edu.sg/~ngsk/'>Prof. See-Kiong Ng</a> 👨‍🏫. Before that, I received my **PhD degree** 🎓 at **<a href='https://www.ynu.edu.cn/'>Yunnan University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='http://www.sei.ynu.edu.cn/info/1023/1106.htm'>Prof. Wei Zhou </a>👨‍🔬.  📅 **From 2022.12 to 2023.12**, I was a **visiting student** at the College of Computing and Data Science, **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University, Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://personal.ntu.edu.sg/kwokyan.lam/'>Prof. LAM, Kwok Yan </a>👨‍🏫.  📅 **From 2023.12 to 2024.08**, I am a **Research Intern** at the School of Cyber Security, **<a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='https://scst.sysu.edu.cn/members/members01/1410204.htm'>Prof. Ziyu Lvy</a> 👩‍🏫.
+I am currently a **Research Fellow** at the Institute of Data Science, **<a href='https://nus.edu.sg/'>National University of Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://www.comp.nus.edu.sg/~ngsk/'>Prof. See-Kiong Ng</a>👨‍🏫 and collaborating closely with <a href='https://personal.ntu.edu.sg/tianwei.zhang/'>Prof. Tianwei Zhang</a>👨‍🏫 from **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">. Before that, I received my **PhD degree** 🎓 at **<a href='https://www.ynu.edu.cn/'>Yunnan University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='http://www.sei.ynu.edu.cn/info/1023/1106.htm'>Prof. Wei Zhou </a>👨‍🔬.  📅 **From 2022 to 2023**, I was a **visiting student** at the College of Computing and Data Science, **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University, Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://personal.ntu.edu.sg/kwokyan.lam/'>Prof. LAM, Kwok Yan </a>👨‍🏫.  📅 **From 2023 to 2024**, I am a **Research Intern** at the School of Cyber Security, **<a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='https://scst.sysu.edu.cn/members/members01/1410204.htm'>Prof. Ziyu Lvy</a>👩‍🏫.
 
 📍 **Address**: Innovation 4.0 🏢, #04-06, Research Link, Singapore 117602, Singapore
 
@@ -41,3 +40,22 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
     <li style="margin-left: 150px;"><strong>Adversarial Attacks</strong> 🛡️</li>
     <li style="margin-left: 150px;"><strong>Computer Vision</strong> 👁️</li>
 </ul>
+
+
+
+<!-- 💡 <strong>Research Interests:</strong>
+<div style="padding-left: 2.2em; margin-top: 0.1em;">
+  - <strong>AI Security & Data Privacy</strong> 🔐  <br>
+  - <strong>Machine Unlearning</strong> 🔄  <br>
+  - <strong>Adversarial Attacks</strong> 🛡️  <br>
+  - <strong>Computer Vision</strong> 👁️
+</div> -->
+
+
+<!-- <span style="font-size: 18px; font-weight: bold;">💡 Research Interests:</span>
+<ul style="padding-left: 2em; margin-top: 0.2em;">
+    <li><strong>AI Security & Data Privacy</strong> 🔐</li>
+    <li><strong>Machine Unlearning</strong> 🔄</li>
+    <li><strong>Adversarial Attacks</strong> 🛡️</li>
+    <li><strong>Computer Vision</strong> 👁️</li>
+</ul> -->
