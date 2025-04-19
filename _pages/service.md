@@ -8,7 +8,8 @@ nav_order: 3
 ---
 
 ### Conferences
-
+- 2025
+  - Reviewer, ACM MM 2025
 - 2024
   - Reviewer, ACM MM 2024
   - PC Member, ICONIP 2024
