@@ -22,6 +22,7 @@ nav_order: 3
 ### Journals
 - 2025
   - Reviewer, TIFS
+  - Reviewer, Pattern Recognition Letters
   - Reviewer, Machine Learning
 - 2024
   - Reviewer, NPL
@@ -29,7 +30,7 @@ nav_order: 3
 - 2023
   - Reviewer, TETCI
   - Reviewer, TIFS
-  - Reviewer, J. Supercomput.
+  - Reviewer, The Journal of Supercomputing
 
 
 <!-- ### Tutorial
