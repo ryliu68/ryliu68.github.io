@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 <p style="margin-bottom: 50px;"><b>Research interests:</b> AI Security & Data Privacy, Machine Unlearning, Adversarial Attacks, Compter Vison.</p> -->
 
 
-I am currently a **Research Fellow** at the Institute of Data Science, **<a href='https://nus.edu.sg/'>National University of Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://www.comp.nus.edu.sg/~ngsk/'>Prof. See-Kiong Ng</a>👨‍🏫 and collaborating closely with <a href='https://personal.ntu.edu.sg/tianwei.zhang/'>Prof. Tianwei Zhang</a>👨‍🏫 from **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">. Before that, I received my **PhD degree** 🎓 at **<a href='https://www.ynu.edu.cn/'>Yunnan University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='http://www.sei.ynu.edu.cn/info/1023/1106.htm'>Prof. Wei Zhou </a>👨‍🔬.  📅 **From 2022 to 2023**, I was a **visiting student** at the College of Computing and Data Science, **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University, Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://personal.ntu.edu.sg/kwokyan.lam/'>Prof. LAM, Kwok Yan </a>👨‍🏫.  📅 **From 2023 to 2024**, I am a **Research Intern** at the School of Cyber Security, **<a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='https://scst.sysu.edu.cn/members/members01/1410204.htm'>Prof. Ziyu Lvy</a>👩‍🏫.
+I am currently a **Research Fellow** at the Institute of Data Science, **<a href='https://nus.edu.sg/'>National University of Singapore</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://www.comp.nus.edu.sg/~ngsk/'>Prof. See-Kiong Ng</a>👨‍🏫 and collaborating closely with <a href='https://personal.ntu.edu.sg/tianwei.zhang/'>Prof. Tianwei Zhang</a>👨‍🏫 from **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, <a href='https://saids.ustc.edu.cn/2025/0319/c36359a677431/page.htm'>Prof. Wenjie Feng</a>👨‍🏫 form **<a href='https://www.ustc.edu.cn/'>University of Science and Technology of China</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">. Before that, I received my **PhD degree** 🎓 at **<a href='https://www.ynu.edu.cn/'>Yunnan University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='http://www.sei.ynu.edu.cn/info/1023/1106.htm'>Prof. Wei Zhou </a>👨‍🔬.  📅 **From 2022 to 2023**, I was a **visiting student** at the College of Computing and Data Science, **<a href='https://www.ntu.edu.sg/'>Nanyang Technological University</a>**, <img src="assets/img/Flag_of_Singapore.svg" alt="Singapore Flag" width="20" height="15">, under the supervision of <a href='https://personal.ntu.edu.sg/kwokyan.lam/'>Prof. LAM, Kwok Yan </a>👨‍🏫.  📅 **From 2023 to 2024**, I am a **Research Intern** at the School of Cyber Security, **<a href='https://www.sysu.edu.cn/'>Sun Yat-sen University</a>**, <img src="assets/img/Flag_of_China.svg" alt="China Flag" width="20" height="15">, supervised by <a href='https://scst.sysu.edu.cn/members/members01/1410204.htm'>Prof. Ziyu Lvy</a>👩‍🏫.
 
 📍 **Address**: Innovation 4.0 🏢, #04-06, Research Link, Singapore 117602, Singapore
 
@@ -31,14 +31,17 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
         - **AI Security & Data Privacy** 🔐  
         - **Machine Unlearning** 🔄  
         - **Adversarial Attacks** 🛡️  
-        - **Computer Vision** 👁️   -->
+        - **Computer Vision** 👁️ 
+        
+         <li style="margin-left: 150px;"><strong>Computer Vision</strong> 👁️</li>
+        -->
+
 
 <span style="font-size: 18px; font-weight: bold;">💡 Research Interests:</span>
 <ul style="margin-top: -10px; margin-left: 150px;">
     <li style="margin-left: 150px;"><strong>AI Security & Data Privacy</strong> 🔐</li>
     <li style="margin-left: 150px;"><strong>Machine Unlearning</strong> 🔄</li>
     <li style="margin-left: 150px;"><strong>Adversarial Attacks</strong> 🛡️</li>
-    <li style="margin-left: 150px;"><strong>Computer Vision</strong> 👁️</li>
 </ul>
 
 
