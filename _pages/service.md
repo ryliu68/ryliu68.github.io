@@ -22,6 +22,7 @@ nav_order: 3
 ### Journals
 - 2025
   - Reviewer, TIFS
+  - Reviewer, Artificial Intelligence Review
   - Reviewer, Pattern Recognition Letters
   - Reviewer, Machine Learning
 - 2024
