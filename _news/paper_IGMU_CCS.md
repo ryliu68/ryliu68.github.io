@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada::tada::tada: One paper on Image Generation Model Unlearning has been accepted by ACM CCS (CCF-A, Big 4)! Big thanks to Prof. Wenjie Feng and other awesome collaborators. [Check it out!](https://arxiv.org/abs/2506.02761) ✨ 
+:tada::tada::tada: One paper on Image Generation Model Unlearning has been accepted by ACM CCS (CCF-A, Big 4)! Thanks to Prof. Wenjie Feng and other awesome collaborators. [Check it out!](https://arxiv.org/abs/2506.02761) ✨ 
