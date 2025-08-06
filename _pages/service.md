@@ -8,7 +8,9 @@ nav_order: 3
 ---
 
 ### Conferences
-- 2025
+- 2026
+  - Program Committee, AAAI 2026
+- 2025  
   - Reviewer, ACM MM 2025
 - 2024
   - Reviewer, ACM MM 2024
@@ -38,3 +40,4 @@ nav_order: 3
 
 - 2020
   - Tutorial Speaker, IJCAI 2020 -->
+
