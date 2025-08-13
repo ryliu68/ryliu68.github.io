@@ -41,7 +41,7 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
 <ul style="margin-top: -10px; margin-left: 150px;">
     <li style="margin-left: 150px;"><strong>AI Security & Data Privacy</strong> 🔐</li>
     <li style="margin-left: 150px;"><strong>Machine Unlearning</strong> 🔄</li>
-    <li style="margin-left: 150px;"><strong>Adversarial Attacks</strong> 🛡️</li>
+    <li style="margin-left: 150px;"><strong>Adversarial Attacks & Denfense</strong> 🛡️</li>
 </ul>
 
 <!-- <span style="display: block; font-size: 18px; font-weight: bold; margin-bottom: 14px;">💡 Research Interests:</span>
@@ -70,3 +70,9 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
     <li><strong>Adversarial Attacks</strong> 🛡️</li>
     <li><strong>Computer Vision</strong> 👁️</li>
 </ul> -->
+
+### 📢 Opportunities
+
+- 🔎 **Collaborations** — I welcome collaborations with **self-motivated** researchers in AI Security and related research areas.  
+- 👋 **Visiting** — **Self-motivated** visiting students (e.g., CSC) are encouraged to join NUS for in-depth research collaboration.  
+
