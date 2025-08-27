@@ -48,15 +48,6 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
 </ul>
 
 
-<!-- <span style="display: block; font-size: 18px; font-weight: bold; margin-bottom: 14px;">💡 Research Interests:</span>
-<ul style="padding-left: 1.5em;">
-    <li><strong>AI Security & Data Privacy</strong> 🔐</li>
-    <li><strong>Machine Unlearning</strong> 🔄</li>
-    <li><strong>Adversarial Attacks</strong> 🛡️</li>
-</ul>
- -->
-
-
 
 <!-- 💡 <strong>Research Interests:</strong>
 <div style="padding-left: 2.2em; margin-top: 0.1em;">
