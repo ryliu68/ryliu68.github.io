@@ -24,6 +24,7 @@ nav_order: 3
 
 ### Journals
 - 2025
+  - Reviewer, Applied Soft Computing
   - Reviewer, TIFS
   - Reviewer, Artificial Intelligence Review
   - Reviewer, Pattern Recognition Letters
@@ -41,5 +42,6 @@ nav_order: 3
 
 - 2020
   - Tutorial Speaker, IJCAI 2020 -->
+
 
 
