@@ -4,8 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - ryliu68/ANID
-  - ryliu68/CDMA
-  - ryliu68/BaiduAI_Attack
+  - ryliu68/RECALL
+  - ryliu68/DJudge
   - ryliu68/IGMU
+  - ryliu68/CDMA
   - ryliu68/STBA  
+  - ryliu68/BaiduAI_Attack 
