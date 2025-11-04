@@ -29,23 +29,21 @@ I am currently a **Research Fellow** at the Institute of Data Science, **<a href
 
 📍 **Address**: Innovation 4.0 🏢, #04-06, Research Link, Singapore 117602, Singapore
 
-<!-- 💡 **Research Interests:**  
+💡 **Research Interests:**  
         - **AI Security & Data Privacy** 🔐  
-        - **Machine Unlearning** 🔄  
-        - **Adversarial Attacks** 🛡️  
-        - **Computer Vision** 👁️ 
-        
-         <li style="margin-left: 150px;"><strong>Computer Vision</strong> 👁️</li>
-        -->
+        - **Machine Unlearning** 🧹  
+        - **Adversarial Attacks & Defense** ⚔️  
+        - **Trustworthy Generative AI** 🛡️        
 
 
-<span style="font-size: 18px; font-weight: bold;">💡 Research Interests:</span>
+
+<!-- <span style="font-size: 18px; font-weight: bold;">💡 Research Interests:</span>
 <ul style="margin-top: -10px; margin-left: 150px;">
   <li style="margin-left: 140px;"><strong>AI Security &amp; Data Privacy</strong> 🔒</li>
   <li style="margin-left: 140px;"><strong>Machine Unlearning</strong> 🧹</li>
   <li style="margin-left: 140px;"><strong>Adversarial Attacks &amp; Defense</strong> ⚔️</li>
   <li style="margin-left: 140px;"><strong>Trustworthy Generative AI</strong> 🛡️</li>
-</ul>
+</ul> -->
 
 
 
