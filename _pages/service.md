@@ -26,6 +26,7 @@ nav_order: 3
 
 ### Journals
 - 2025
+  - Reviewer, TSC
   - Reviewer, Applied Soft Computing
   - Reviewer, TIFS
   - Reviewer, Artificial Intelligence Review
@@ -44,6 +45,7 @@ nav_order: 3
 
 - 2020
   - Tutorial Speaker, IJCAI 2020 -->
+
 
 
 
