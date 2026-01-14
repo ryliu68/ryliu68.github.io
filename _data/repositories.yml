@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  -ryliu68/SafeRedir
   - ryliu68/FACTGUARD
   - ryliu68/RECALL
   - ryliu68/DJudge
