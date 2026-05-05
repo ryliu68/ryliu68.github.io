@@ -9,6 +9,7 @@ nav_order: 3
 
 ### Conferences
 - 2026
+  - Reviewer, ACM MM 2026
   - PC Member, WWW 2026
   - Subreviewer, WWW 2026
   - Program Committee, AAAI 2026
@@ -26,6 +27,14 @@ nav_order: 3
   - Reviewer, ICONIP 2023
 
 ### Journals
+- 2026
+  - Associate Editor, JMLIS
+  - Reviewer, TEVC
+  - Reviewer, TIFS
+  - Reviewer, Pattern Recognition
+  - Reviewer, Applied Soft Computing
+  - Reviewer, The Visual Computer
+  - Reviewer, Scientific Reports
 - 2025
   - Reviewer, TSC
   - Reviewer, Applied Soft Computing
