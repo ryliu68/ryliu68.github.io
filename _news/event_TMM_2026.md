@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada::tada::tada: One paper on Prompt-Agnostic Adversarial Attacks on Large Vision Language Models has been accepted by TMM (CCF-A)! Congrats to Tingchao Fu!
+:tada::tada::tada: One paper on Prompt-Agnostic Adversarial Attacks on Large Vision Language Models has been accepted by TMM (CCF-A)! Congrats to [Tingchao Fu](https://tingchaofu.github.io)!
