@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada::tada::tada: One paper on Red-teaming Unlearned Image Generation Model has been accepted by ICLR! [Check it out!](https://arxiv.org/abs/2507.07139) ✨ 
+:tada::tada::tada: One paper on Red-teaming Unlearned Image Generation Model has been accepted by ICLR (CCF-A)! [Check it out!](https://arxiv.org/abs/2507.07139) ✨ 
