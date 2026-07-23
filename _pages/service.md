@@ -8,7 +8,11 @@ nav_order: 3
 ---
 
 ### Conferences
+- 2027
+  - Program Committee, USENIX Security 2027
+  - Program Committee, AAAI 2027
 - 2026
+  - Reviewer, ICDM 2026
   - Reviewer, ACM MM 2026
   - PC Member, WWW 2026
   - Subreviewer, WWW 2026
@@ -28,7 +32,8 @@ nav_order: 3
 
 ### Journals
 - 2026
-  - Associate Editor, JMLIS
+  - Youth Editorial Board Member, JMLIS
+  - Reviewer, Neural Networks
   - Reviewer, TEVC
   - Reviewer, TIFS
   - Reviewer, Pattern Recognition
@@ -49,16 +54,3 @@ nav_order: 3
   - Reviewer, TETCI
   - Reviewer, TIFS
   - Reviewer, The Journal of Supercomputing
-
-
-<!-- ### Tutorial
-
-- 2020
-  - Tutorial Speaker, IJCAI 2020 -->
-
-
-
-
-
-
-
