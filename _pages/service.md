@@ -39,7 +39,6 @@ nav_order: 3
   - Reviewer, Pattern Recognition
   - Reviewer, Applied Soft Computing
   - Reviewer, The Visual Computer
-  - Reviewer, Scientific Reports
 - 2025
   - Reviewer, TSC
   - Reviewer, Applied Soft Computing
