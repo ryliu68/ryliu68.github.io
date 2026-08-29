@@ -11,6 +11,7 @@ nav_order: 3
 - 2027
   - Program Committee, USENIX Security 2027
   - Program Committee, AAAI 2027
+  - Reviewer，ICLR 2027 
 - 2026
   - Reviewer, ICDM 2026
   - Reviewer, ACM MM 2026
@@ -33,6 +34,8 @@ nav_order: 3
 ### Journals
 - 2026
   - Youth Editorial Board Member, JMLIS
+  - Reviewer, TPAMI
+  - Reviewer, TMM
   - Reviewer, Neural Networks
   - Reviewer, TEVC
   - Reviewer, TIFS

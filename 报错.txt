@@ -1,0 +1,162 @@
+Run lycheeverse/lychee-action@v1.9.0
+Run # Cleanup artifacts from previous run in case it crashed
+lychee
+Run /home/runner/work/_actions/lycheeverse/lychee-action/v1.9.0/entrypoint.sh
+? [IGNORED] data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEhklEQVR4AWJxL/BhIAesev1U5tcflpncgNrKIsqNIwzC9feMpDUzs70kOczMzMzJJcxwCTMzncPMnOwtzBwzMzPb0vRfeZPp0VhPS5I39V5fdiXV1/VD+9QC7OVn9BsyH1XIoEI1PfmJvLFowVV564+34DFUHudbmfDh4kVXh//7XwE+WjS/YfXZe3yr4j2rqj1AIhSB7hZ8ZtPZu/zw8cK523U4wE1/rvPfWrz4zs0m9ZdC9yUJAlASdBAgocRegfF/f3/h/PuaFsxMdwjAR0vm1+06eMMfIrhLqTWqdH4EumU2SPfMhigJAlRQbZrgrRsl9U+Y2DYDFCz3ILC9kiAiqSrMwbWT0nceEnR+9Kggc2zjOJCASDENkg0a5HfZZgDP81CM3CrQs2Z1+o7DJ6ePr8sK0AOCHv5Jjdt3evyYSaZ351VIStIxPRAUtrBYbxC6w+BZ0ivVSBKkIhJhemSyZpfB00EiPO2VjzYkxhcqXQqCWCShGplvi3y0QxqbuBurMjyJeWnkHZuAEgIQGsUBqwrfjZ+IlBgKyRJzVVYF8O6qFWdh86YzQzMrZigYmxAyfvHgLZQ/LC1CbeniW2Hkqr/PH16SgvGuf2/uzNMBwJA/njxizGPtSyAf7EziJCMGRDRdhoAC4PL1A/SrKQMAAQkEfpJAcRQdrBJ7gNwjSpJsdwK+CANBkqa1LgQB4IicV9nYUct7gaxuDJUErQIiEAiMxLVOFlKzIktPpT0ggpdpC/8YAHnxbgkUY4tAAFSR7AAXNyAAWHJrA/kHGjzg5nleuwFO7Nd/IoDw4Pm58+4jNLmYG0wRA5bErc2Mr3Y+dXTDW1VvwqbJkzMCHQ4S1GTCBOIgUHJrGdEwqzR+jAp/o2qAZelUDoQnruEEdDclJI6576AlNVfc+22XN/+Y1vnJD0Yind6UpEEvn/Hqq15EYjCW7jZCJEpnNvDgkyelDjs106kuux2AAXCSobULOWP8mLhYlpoDMK4qAFXJGk+grtH8YXVz5KJblqaG1+VUdTc0I290bmUQAriGITRbdQnom0aoFj8kx1+wMD2ifncAXUQE4SkDqN1hE0jEophs1SUwZAOhUAiMCLwRtamtTZtbbmZErSAUHbSysaoEmnrsakiMiUAURi283gN6wans9oX8rOCrj7/JP35DFD+iQ7Au/K2KE1jzx6ujjUnXFH9KjEq6ZlhsTBICrNLJf47Pv/pkHzvup1w4dmUbEei0+bcXRqJuh5kVARQ8byyYxOwNGr7A87xh1tp8sGT+uMInrwi++Xj7TQz2d27NvwEkrOflAFQGIDA5khASBCGdO2/Z/MnLPwYfv5TFhjW7QhVKAB6afwe2LpFlFsCnlQEosgQgDsdOG1/LKeNqJS4JCSPJ/i+TakwEARor7gER1Iva5JmPOJK0RUqmoPnnlzFCtmIAhAAQEIQRgDaiYPIauNXcnDlRIrWNFY3hm7PG9YRqr7IV7HrCgAC17befjEvRq2nGhAHtBqDpOuI/I1diUUAMYIxEdyejBJqLnNoszGZtfiX/CztGv2mq+sdaAAAAAElFTkSuQmCC | Unsupported: The given URI is invalid: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEhklEQVR4AWJxL/BhIAesev1U5tcflpncgNrKIsqNIwzC9feMpDUzs70kOczMzMzJJcxwCTMzncPMnOwtzBwzMzPb0vRfeZPp0VhPS5I39V5fdiXV1/VD+9QC7OVn9BsyH1XIoEI1PfmJvLFowVV564+34DFUHudbmfDh4kVXh//7XwE+WjS/YfXZe3yr4j2rqj1AIhSB7hZ8ZtPZu/zw8cK523U4wE1/rvPfWrz4zs0m9ZdC9yUJAlASdBAgocRegfF/f3/h/PuaFsxMdwjAR0vm1+06eMMfIrhLqTWqdH4EumU2SPfMhigJAlRQbZrgrRsl9U+Y2DYDFCz3ILC9kiAiqSrMwbWT0nceEnR+9Kggc2zjOJCASDENkg0a5HfZZgDP81CM3CrQs2Z1+o7DJ6ePr8sK0AOCHv5Jjdt3evyYSaZ351VIStIxPRAUtrBYbxC6w+BZ0ivVSBKkIhJhemSyZpfB00EiPO2VjzYkxhcqXQqCWCShGplvi3y0QxqbuBurMjyJeWnkHZuAEgIQGsUBqwrfjZ+IlBgKyRJzVVYF8O6qFWdh86YzQzMrZigYmxAyfvHgLZQ/LC1CbeniW2Hkqr/PH16SgvGuf2/uzNMBwJA/njxizGPtSyAf7EziJCMGRDRdhoAC4PL1A/SrKQMAAQkEfpJAcRQdrBJ7gNwjSpJsdwK+CANBkqa1LgQB4IicV9nYUct7gaxuDJUErQIiEAiMxLVOFlKzIktPpT0ggpdpC/8YAHnxbgkUY4tAAFSR7AAXNyAAWHJrA/kHGjzg5nleuwFO7Nd/IoDw4Pm58+4jNLmYG0wRA5bErc2Mr3Y+dXTDW1VvwqbJkzMCHQ4S1GTCBOIgUHJrGdEwqzR+jAp/o2qAZelUDoQnruEEdDclJI6576AlNVfc+22XN/+Y1vnJD0Yind6UpEEvn/Hqq15EYjCW7jZCJEpnNvDgkyelDjs106kuux2AAXCSobULOWP8mLhYlpoDMK4qAFXJGk+grtH8YXVz5KJblqaG1+VUdTc0I290bmUQAriGITRbdQnom0aoFj8kx1+wMD2ifncAXUQE4SkDqN1hE0jEophs1SUwZAOhUAiMCLwRtamtTZtbbmZErSAUHbSysaoEmnrsakiMiUAURi283gN6wans9oX8rOCrj7/JP35DFD+iQ7Au/K2KE1jzx6ujjUnXFH9KjEq6ZlhsTBICrNLJf47Pv/pkHzvup1w4dmUbEei0+bcXRqJuh5kVARQ8byyYxOwNGr7A87xh1tp8sGT+uMInrwi++Xj7TQz2d27NvwEkrOflAFQGIDA5khASBCGdO2/Z/MnLPwYfv5TFhjW7QhVKAB6afwe2LpFlFsCnlQEosgQgDsdOG1/LKeNqJS4JCSPJ/i+TakwEARor7gER1Iva5JmPOJK0RUqmoPnnlzFCtmIAhAAQEIQRgDaiYPIauNXcnDlRIrWNFY3hm7PG9YRqr7IV7HrCgAC17befjEvRq2nGhAHtBqDpOuI/I1diUUAMYIxEdyejBJqLnNoszGZtfiX/CztGv2mq+sdaAAAAAElFTkSuQmCC
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md
+? [IGNORED] data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEhklEQVR4AWJxL/BhIAesev1U5tcflpncgNrKIsqNIwzC9feMpDUzs70kOczMzMzJJcxwCTMzncPMnOwtzBwzMzPb0vRfeZPp0VhPS5I39V5fdiXV1/VD+9QC7OVn9BsyH1XIoEI1PfmJvLFowVV564+34DFUHudbmfDh4kVXh//7XwE+WjS/YfXZe3yr4j2rqj1AIhSB7hZ8ZtPZu/zw8cK523U4wE1/rvPfWrz4zs0m9ZdC9yUJAlASdBAgocRegfF/f3/h/PuaFsxMdwjAR0vm1+06eMMfIrhLqTWqdH4EumU2SPfMhigJAlRQbZrgrRsl9U+Y2DYDFCz3ILC9kiAiqSrMwbWT0nceEnR+9Kggc2zjOJCASDENkg0a5HfZZgDP81CM3CrQs2Z1+o7DJ6ePr8sK0AOCHv5Jjdt3evyYSaZ351VIStIxPRAUtrBYbxC6w+BZ0ivVSBKkIhJhemSyZpfB00EiPO2VjzYkxhcqXQqCWCShGplvi3y0QxqbuBurMjyJeWnkHZuAEgIQGsUBqwrfjZ+IlBgKyRJzVVYF8O6qFWdh86YzQzMrZigYmxAyfvHgLZQ/LC1CbeniW2Hkqr/PH16SgvGuf2/uzNMBwJA/njxizGPtSyAf7EziJCMGRDRdhoAC4PL1A/SrKQMAAQkEfpJAcRQdrBJ7gNwjSpJsdwK+CANBkqa1LgQB4IicV9nYUct7gaxuDJUErQIiEAiMxLVOFlKzIktPpT0ggpdpC/8YAHnxbgkUY4tAAFSR7AAXNyAAWHJrA/kHGjzg5nleuwFO7Nd/IoDw4Pm58+4jNLmYG0wRA5bErc2Mr3Y+dXTDW1VvwqbJkzMCHQ4S1GTCBOIgUHJrGdEwqzR+jAp/o2qAZelUDoQnruEEdDclJI6576AlNVfc+22XN/+Y1vnJD0Yind6UpEEvn/Hqq15EYjCW7jZCJEpnNvDgkyelDjs106kuux2AAXCSobULOWP8mLhYlpoDMK4qAFXJGk+grtH8YXVz5KJblqaG1+VUdTc0I290bmUQAriGITRbdQnom0aoFj8kx1+wMD2ifncAXUQE4SkDqN1hE0jEophs1SUwZAOhUAiMCLwRtamtTZtbbmZErSAUHbSysaoEmnrsakiMiUAURi283gN6wans9oX8rOCrj7/JP35DFD+iQ7Au/K2KE1jzx6ujjUnXFH9KjEq6ZlhsTBICrNLJf47Pv/pkHzvup1w4dmUbEei0+bcXRqJuh5kVARQ8byyYxOwNGr7A87xh1tp8sGT+uMInrwi++Xj7TQz2d27NvwEkrOflAFQGIDA5khASBCGdO2/Z/MnLPwYfv5TFhjW7QhVKAB6afwe2LpFlFsCnlQEosgQgDsdOG1/LKeNqJS4JCSPJ/i+TakwEARor7gER1Iva5JmPOJK0RUqmoPnnlzFCtmIAhAAQEIQRgDaiYPIauNXcnDlRIrWNFY3hm7PG9YRqr7IV7HrCgAC17befjEvRq2nGhAHtBqDpOuI/I1diUUAMYIxEdyejBJqLnNoszGZtfiX/CztGv2mq+sdaAAAAAElFTkSuQmCC | Unsupported: The given URI is invalid: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEhklEQVR4AWJxL/BhIAesev1U5tcflpncgNrKIsqNIwzC9feMpDUzs70kOczMzMzJJcxwCTMzncPMnOwtzBwzMzPb0vRfeZPp0VhPS5I39V5fdiXV1/VD+9QC7OVn9BsyH1XIoEI1PfmJvLFowVV564+34DFUHudbmfDh4kVXh//7XwE+WjS/YfXZe3yr4j2rqj1AIhSB7hZ8ZtPZu/zw8cK523U4wE1/rvPfWrz4zs0m9ZdC9yUJAlASdBAgocRegfF/f3/h/PuaFsxMdwjAR0vm1+06eMMfIrhLqTWqdH4EumU2SPfMhigJAlRQbZrgrRsl9U+Y2DYDFCz3ILC9kiAiqSrMwbWT0nceEnR+9Kggc2zjOJCASDENkg0a5HfZZgDP81CM3CrQs2Z1+o7DJ6ePr8sK0AOCHv5Jjdt3evyYSaZ351VIStIxPRAUtrBYbxC6w+BZ0ivVSBKkIhJhemSyZpfB00EiPO2VjzYkxhcqXQqCWCShGplvi3y0QxqbuBurMjyJeWnkHZuAEgIQGsUBqwrfjZ+IlBgKyRJzVVYF8O6qFWdh86YzQzMrZigYmxAyfvHgLZQ/LC1CbeniW2Hkqr/PH16SgvGuf2/uzNMBwJA/njxizGPtSyAf7EziJCMGRDRdhoAC4PL1A/SrKQMAAQkEfpJAcRQdrBJ7gNwjSpJsdwK+CANBkqa1LgQB4IicV9nYUct7gaxuDJUErQIiEAiMxLVOFlKzIktPpT0ggpdpC/8YAHnxbgkUY4tAAFSR7AAXNyAAWHJrA/kHGjzg5nleuwFO7Nd/IoDw4Pm58+4jNLmYG0wRA5bErc2Mr3Y+dXTDW1VvwqbJkzMCHQ4S1GTCBOIgUHJrGdEwqzR+jAp/o2qAZelUDoQnruEEdDclJI6576AlNVfc+22XN/+Y1vnJD0Yind6UpEEvn/Hqq15EYjCW7jZCJEpnNvDgkyelDjs106kuux2AAXCSobULOWP8mLhYlpoDMK4qAFXJGk+grtH8YXVz5KJblqaG1+VUdTc0I290bmUQAriGITRbdQnom0aoFj8kx1+wMD2ifncAXUQE4SkDqN1hE0jEophs1SUwZAOhUAiMCLwRtamtTZtbbmZErSAUHbSysaoEmnrsakiMiUAURi283gN6wans9oX8rOCrj7/JP35DFD+iQ7Au/K2KE1jzx6ujjUnXFH9KjEq6ZlhsTBICrNLJf47Pv/pkHzvup1w4dmUbEei0+bcXRqJuh5kVARQ8byyYxOwNGr7A87xh1tp8sGT+uMInrwi++Xj7TQz2d27NvwEkrOflAFQGIDA5khASBCGdO2/Z/MnLPwYfv5TFhjW7QhVKAB6afwe2LpFlFsCnlQEosgQgDsdOG1/LKeNqJS4JCSPJ/i+TakwEARor7gER1Iva5JmPOJK0RUqmoPnnlzFCtmIAhAAQEIQRgDaiYPIauNXcnDlRIrWNFY3hm7PG9YRqr7IV7HrCgAC17befjEvRq2nGhAHtBqDpOuI/I1diUUAMYIxEdyejBJqLnNoszGZtfiX/CztGv2mq+sdaAAAAAElFTkSuQmCC
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_layouts/bib.liquid
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_config.yml
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_sass/_variables.scss
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_projects
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_data/repositories.yml
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/assets/json/resume.json
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_layouts
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_bibliography/papers.bib
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_news
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/projects.md
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_posts
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_data/coauthors.yml
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_sass/_themes.scss
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_data/cv.yml
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_sass/_base.scss
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#i-am-using-a-custom-domain-eg-foocom-my-custom-domain-becomes-blank-in-the-repository-settings-after-each-deployment-how-do-i-fix-that
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#my-code-runs-fine-locally-but-when-i-create-a-commit-and-submit-it-it-fails-with-prettier-code-formatter-workflow-run-failed-for-main-branch-how-do-i-fix-that
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#i-am-trying-to-deploy-my-site-but-it-fails-with-could-not-find-gem-jekyll-diagrams-in-locally-installed-gems-how-do-i-fix-that
+✗ [ERR] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/assets/img/template_error.png | Failed: Cannot find file
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#my-site-doesnt-work-when-i-enable-related_blog_posts-why
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#upgrading-from-a-previous-version
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#what-do-all-these-github-actionsworkflows-mean
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#how-can-i-update-font-awesome-version-on-the-template
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#my-webpage-works-locally-but-after-deploying-it-fails-to-build-and-throws-unknown-tag-toc-how-do-i-fix-that
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#deployment
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#after-i-create-a-new-repository-from-this-template-and-setup-the-repo-i-get-a-deployment-error-isnt-the-website-supposed-to-correctly-deploy-automatically
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#atom-feed-doesnt-work-why
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#after-i-update-my-site-with-some-new-content-even-a-small-change-the-github-action-throws-an-error-or-displays-a-warning-what-happened
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#when-trying-to-deploy-its-asking-for-github-login-credentials-which-github-disabled-password-authentication-and-it-exits-with-an-error-how-to-fix
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#when-i-manually-run-the-lighthouse-badger-workflow-it-fails-with-error-input-required-and-not-supplied-token-how-do-i-fix-that
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/FAQ.md#my-webpage-works-locally-but-after-deploying-it-is-not-displayed-correctly-css-and-js-are-not-loaded-properly-how-do-i-fix-that
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#recommended-approach
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#deployment-to-another-hosting-server-non-github-pages
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#deployment
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#deployment-to-a-separate-repository-advanced-users-only
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#local-setup-legacy-no-longer-supported
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#for-project-pages
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#upgrading-from-a-previous-version
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#manual-deployment-to-github-pages
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#table-of-contents
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#local-setup-on-windows
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#for-personal-and-organization-webpages
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/assets/video/tutorial_al_folio.mp4
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#build-your-own-docker-image
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#local-setup-with-development-containers
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#installing-and-deploying
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#local-setup-using-docker-recommended
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/INSTALL.md#enabling-automatic-deployment
+✔ [200] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages#{{%20category%20}}
+✗ [ERR] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_China.svg | Failed: Cannot find file
+✗ [ERR] file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_Singapore.svg | Failed: Cannot find file
+? [EXCLUDED] https://twitter.com/jekyllrb | Excluded
+? [EXCLUDED] https://twitter.com/rubygems/status/518821243320287232 | Excluded
+✔ [200] https://pypi.org/project/pip/
+✔ [403] https://stackoverflow.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598 | OK (403 Forbidden): Forbidden
+✔ [200] https://docs.python.org/pt-br/3/library/venv.html
+✔ [200] https://arxiv.org/abs/2601.08623
+✔ [200] https://arxiv.org/abs/2507.07139
+✔ [200] https://fontawesome.com/download
+✔ [200] https://arxiv.org/abs/2506.02761
+✔ [200] https://en.wikipedia.org/wiki/Stop_words
+✔ [200] https://www.mathjax.org/
+✔ [200] https://en.wikipedia.org/wiki/Cold-pressed_juice
+✔ [200] https://arxiv.org/abs/2604.06987
+✔ [200] https://arxiv.org/abs/2412.17632
+✔ [200] https://www.youtube.com/watch?v=l0sgiwJyEu4
+✔ [200] https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history
+✔ [200] https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+✔ [200] https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token
+✔ [200] https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token
+✔ [200] https://www.ruby-lang.org/en/downloads/
+✔ [200] https://docs.github.com/en/actions
+✔ [200] https://bootstrap-table.com/
+✔ [200] https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source
+✔ [200] https://firefox-source-docs.mozilla.org/devtools-user/
+✔ [200] https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-encrypted-secrets-for-a-repository
+✔ [200] https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html
+✔ [200] https://en.wikipedia.org/wiki/Cold-pressed_juice
+✔ [200] https://afeld.github.io/bootstrap-toc/
+✔ [200] https://en.wikipedia.org/wiki/Cold-pressed_juice
+✔ [200] https://alshedivat.github.io/al-folio/
+✔ [200] https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites
+✔ [200] https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-encrypted-secrets-for-a-repository
+✔ [200] https://pages.github.com/
+✔ [403] http://www.intmath.com/cg5/katex-mathjax-comparison.php | OK (403 Forbidden): Forbidden
+✔ [200] https://docs.conda.io/en/latest/
+✔ [200] https://containers.dev/supporting
+✔ [200] https://george-gca.github.io/blog/2023/slidev_for_non_web_devs/
+✔ [200] https://tingchaofu.github.io/
+✔ [403] https://www.usenix.org/conference/usenixsecurity27 | OK (403 Forbidden): Forbidden
+✔ [200] https://meldmerge.org/
+✔ [200] https://meldmerge.org/
+✔ [200] https://learn.microsoft.com/en-us/windows/wsl/install
+✔ [200] https://www.python.org/
+✔ [200] https://jekyllrb.com/docs/posts/#drafts
+✔ [200] https://george-gca.github.io/blog/2022/running-local-al-folio/
+✔ [200] https://winmerge.org/
+✔ [200] https://winmerge.org/
+✔ [200] https://jekyllrb.com/docs/permalinks/
+✔ [200] https://examples.bootstrap-table.com/index.html
+✔ [200] https://jekyllrb.com/docs/posts/#creating-posts
+✔ [200] https://jekyllrb.com/docs/front-matter/
+✔ [200] https://jekyllrb.com/docs/layouts/
+✔ [403] https://www.dimensions.ai/ | OK (403 Forbidden): Forbidden
+✔ [200] https://jekyllrb.com/docs/configuration/options/
+✔ [200] https://jekyllrb.com/docs/configuration/markdown/
+✔ [200] https://docs.docker.com/compose/install/
+✔ [200] https://vega.github.io/vega-lite/
+✔ [200] https://mermaid-js.github.io/mermaid/
+✔ [200] https://github.com/alshedivat/al-folio/pull/2048
+✔ [200] https://github.com/alshedivat/al-folio/pull/2048
+✔ [200] https://www.altmetric.com/
+✔ [200] https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support
+✔ [200] https://www.sysu.edu.cn/
+✔ [200] https://github.com/alshedivat/al-folio/pull/1992
+✗ [404] https://scst.sysu.edu.cn/members/members01/1410204.htm | Failed: Network error: Not Found
+💡 There were issues with Github URLs. You could try setting a Github token and running lychee again.## Summary
+
+| Status        | Count |
+|---------------|-------|
+| 🔍 Total      | 222   |
+| ✅ Successful | 209   |
+| ⏳ Timeouts   | 0     |
+| 🔀 Redirected | 0     |
+| 👻 Excluded   | 2     |
+| ❓ Unknown    | 0     |
+| 🚫 Errors     | 9     |
+
+## Errors per input
+
+### Errors in FAQ.md
+
+* [404] [https://github.com/alshedivat/al-folio/blob/main/FAQ.md#when-i-manually-run-the-lighthouse-badger-workflow-it-fails-with-error-input-required-and-not-supplied-token-how-do-i-fix-that](https://github.com/alshedivat/al-folio/blob/main/FAQ.md#when-i-manually-run-the-lighthouse-badger-workflow-it-fails-with-error-input-required-and-not-supplied-token-how-do-i-fix-that) | Failed: Network error: Not Found
+* [404] [https://github.com/alshedivat/al-folio/blob/main/FAQ.md#my-code-runs-fine-locally-but-when-i-create-a-commit-and-submit-it-it-fails-with-prettier-code-formatter-workflow-run-failed-for-main-branch-how-do-i-fix-that](https://github.com/alshedivat/al-folio/blob/main/FAQ.md#my-code-runs-fine-locally-but-when-i-create-a-commit-and-submit-it-it-fails-with-prettier-code-formatter-workflow-run-failed-for-main-branch-how-do-i-fix-that) | Failed: Network error: Not Found
+* [404] [https://github.com/alshedivat/al-folio/blob/main/INSTALL.md#local-setup-with-development-containers](https://github.com/alshedivat/al-folio/blob/main/INSTALL.md#local-setup-with-development-containers) | Failed: Network error: Not Found
+* [ERR] [file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/assets/img/template_error.png](file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/assets/img/template_error.png) | Failed: Cannot find file
+
+### Errors in _projects/3_project.md
+
+* [401] [https://unsplash.com/](https://unsplash.com/) | Failed: Network error: Unauthorized
+
+### Errors in _posts/2023-05-12-custom-blockquotes.md
+
+* [404] [https://github.com/alshedivat/al-folio/blob/main/_sass/_base.scss](https://github.com/alshedivat/al-folio/blob/main/_sass/_base.scss) | Failed: Network error: Not Found
+
+### Errors in _pages/about.md
+
+* [404] [https://scst.sysu.edu.cn/members/members01/1410204.htm](https://scst.sysu.edu.cn/members/members01/1410204.htm) | Failed: Network error: Not Found
+* [ERR] [file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_China.svg](file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_China.svg) | Failed: Cannot find file
+* [ERR] [file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_Singapore.svg](file:///home/runner/work/ryliu68.github.io/ryliu68.github.io/_pages/assets/img/Flag_of_Singapore.svg) | Failed: Cannot find file
+
+Error: Process completed with exit code 2.
