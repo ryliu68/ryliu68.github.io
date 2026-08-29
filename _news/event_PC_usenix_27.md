@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨Invited to serve as a PC member of [USENIX Security '27](https://www.usenix.org/conference/usenixsecurity27)!✨
+✨Invited to serve as a PC member of [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)!✨
